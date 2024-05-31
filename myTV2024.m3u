@@ -1,0 +1,546 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="央视,CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-2 财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-3 综艺
+https://z88.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-4 中文国际
+https://z88.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-4K 超高清
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="央视,CCTV-5 体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-6 电影
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-7 国防军事
+https://z88.ubtvfans.com/live/rx1/2757/a75508a147ffe80a289d9674f341441d/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-8 电视剧
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-9 记录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-10 科教
+https://z88.ubtvfans.com/live/rx1/210/a28130d460715803b16001174421cefd/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-11 戏曲
+https://z88.ubtvfans.com/live/rx1/2809/8305b7a0194bac43f9b4eac6a00a1824/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-12 社会与法
+https://z88.ubtvfans.com/live/rx1/212/b617c31586b3a320062ec62c7b4e93d5/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-13 新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-14 少儿
+https://z88.ubtvfans.com/live/rx1/2826/d67e1463762a9812875a58ce0777214a/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-15 音乐
+https://z88.ubtvfans.com/live/rx1/215/f205393253508a0862e35601340344ef/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-16 奥林匹克
+https://z88.ubtvfans.com/live/rx1/2821/e00bc8abdb50b2a016e41028e1dffee2/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-17 农业农村
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视,CCTV-5+ 体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="央视,CCTV-央视台球
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:-1 group-title="央视,CCTV-怀旧剧场
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+#EXTINF:-1 group-title="央视,CCTV-风云足球
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+#EXTINF:-1 group-title="央视,CCTV-风云剧场
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+#EXTINF:-1 group-title="央视,CCTV-高尔夫网球
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+#EXTINF:-1 group-title="央视,CCTV-第一剧场
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+#EXTINF:-1 group-title="央视,CHC影迷电影
+https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
+#EXTINF:-1 group-title="央视,CHC动作电影
+https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
+#EXTINF:-1 group-title="央视,CHC家庭电影
+https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
+#EXTINF:-1 group-title="央视,欢笑剧场
+https://z88.ubtvfans.com/live/rx1/1348/5563a8ce2d5e0bb3ba0917e1b3ab3979/index.m3u8
+#EXTINF:-1 group-title="央视,青田电视台
+https://z88.ubtvfans.com/live/rx3/2295/ff7b3dbe71946107d166217b4a83db2f/index.m3u8
+#EXTINF:-1 group-title="央视,魅力足球
+https://z88.ubtvfans.com/live/rx1/464/b220950d6a761830e9bb11712b0c136e/index.m3u8
+#EXTINF:-1 group-title="央视,CHC影迷电影
+#EXTINF:-1 group-title="央视,CHC影迷电影
+#EXTINF:-1 group-title="央视,CHC影迷电影
+#################################################################################################################################
+#EXTINF:-1 group-title="卫视,湖南卫视
+https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+#EXTINF:-1 group-title="卫视,浙江卫视
+http://64.140.167.170:8080/live/ydws7/hls.m3u8
+#EXTINF:-1 group-title="卫视,东方卫视
+http://64.140.167.170:8080/live/ydws2/hls.m3u8
+#EXTINF:-1 group-title="卫视,江苏卫视
+http://64.140.167.170:8080/live/ydws1/hls.m3u8
+#EXTINF:-1 group-title="卫视,北京卫视
+http://64.140.167.170:8080/live/bjws/hls.m3u8
+#EXTINF:-1 group-title="卫视,深圳卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+#EXTINF:-1 group-title="卫视,CCTV-广东卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+#EXTINF:-1 group-title="卫视,大湾区卫视
+http://64.140.167.170:8080/live/dwqws/hls.m3u8
+#EXTINF:-1 group-title="卫视,重庆卫视
+http://tvbox.netsite.cc/proxy/1866473212/1866473212.m3u8
+#EXTINF:-1 group-title="卫视,东南卫视
+http://64.140.167.170:8080/live/ydws11/hls.m3u8
+#EXTINF:-1 group-title="卫视,黑龙江卫视
+http://tvbox.netsite.cc/proxy/797978954/797978954.m3u8
+#EXTINF:-1 group-title="卫视,广西卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+#EXTINF:-1 group-title="卫视,云南卫视
+http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+#EXTINF:-1 group-title="卫视,澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="卫视,澳门卫视
+https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+#EXTINF:-1 group-title="卫视,贵州卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+#EXTINF:-1 group-title="卫视,海南卫视
+http://tvbox.netsite.cc/proxy/1505336139/1505336139.m3u8
+#EXTINF:-1 group-title="卫视,河北卫视
+http://tvbox.netsite.cc/proxy/866823714/866823714.m3u8
+#EXTINF:-1 group-title="卫视,湖北卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+#EXTINF:-1 group-title="卫视,江西卫视
+http://64.140.167.170:8080/live/ydws10/hls.m3u8
+#EXTINF:-1 group-title="卫视,吉林卫视
+http://64.140.167.170:8080/live/ydws4/hls.m3u8
+#EXTINF:-1 group-title="卫视,辽宁卫视
+https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
+#EXTINF:-1 group-title="卫视,宁夏卫视
+http://tvbox.netsite.cc/proxy/1558349983/1558349983.m3u8
+#EXTINF:-1 group-title="卫视,陕西卫视
+http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8
+#EXTINF:-1 group-title="卫视,山东卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+#EXTINF:-1 group-title="卫视,山西卫视
+http://tvbox.netsite.cc/proxy/825435414/825435414.m3u8
+#EXTINF:-1 group-title="卫视,四川卫视
+http://64.140.167.170:8080/live/ydws8/hls.m3u8
+#EXTINF:-1 group-title="卫视,天津卫视
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
+#EXTINF:-1 group-title="卫视,安徽卫视
+http://64.140.167.170:8080/live/ydws9/hls.m3u8
+#EXTINF:-1 group-title="卫视,河南卫视
+http://tvbox.netsite.cc/proxy/1555831884/1555831884.m3u8
+#EXTINF:-1 group-title="卫视,青海卫视
+http://tvbox.netsite.cc/proxy/1152127449/1152127449.m3u8
+#EXTINF:-1 group-title="卫视,甘肃卫视
+http://tvbox.netsite.cc/proxy/1209404373/1209404373.m3u8
+
+#################################################################################################################################
+#EXTINF:-1 group-title="香港,TVB翡翠台
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+#EXTINF:-1 group-title="香港,TVB星河
+https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港,TVB娱乐新闻
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港,TVB功夫台
+https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港,TVB千禧经典台
+https://z88.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3u8
+#EXTINF:-1 group-title="香港,TVB亚洲剧台
+https://z88.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
+#EXTINF:-1 group-title="香港,TVB明珠台
+https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+#EXTINF:-1 group-title="香港,TVB粤语片
+https://z88.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
+#EXTINF:-1 group-title="香港,TVB Drama
+https://z88.ubtvfans.com/live/rx3/1243/5e98788089087fb462ba17e122fd194f/index.m3u8
+#EXTINF:-1 group-title="香港,TVB 新闻台
+https://z88.ubtvfans.com/live/rx1/394/ea3bdc0ef72944ed9e0438db99e557f2/index.m3u8
+#EXTINF:-1 group-title="香港,TVBJ1
+https://z88.ubtvfans.com/live/rx3/1244/7833a84444269dd5dd0a7531ccef9d9c/index.m3u8
+#EXTINF:-1 group-title="香港,凤凰卫视
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+#EXTINF:-1 group-title="香港,凤凰中文
+http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+#EXTINF:-1 group-title="香港,凤凰资讯
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="香港,VIU
+https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+#EXTINF:-1 group-title="香港,天映频道
+http://210.210.155.37/session/bb793108-0b45-11ef-bc68-931d8931fa8e/dr9445/h/h14/01.m3u8
+#EXTINF:-1 group-title="香港,HOY77
+https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+#EXTINF:-1 group-title="香港,Thrill
+https://z88.ubtvfans.com/live/rx4/2968/35c11ae4602a1e2b1a3b88409ba4dd05/index.m3u8
+#EXTINF:-1 group-title="香港,NOW
+https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
+#EXTINF:-1 group-title="香港,城市电视
+https://z88.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3u8
+#EXTINF:-1 group-title="香港,CCM
+https://z88.ubtvfans.com/live/rx3/1438/3614bb0fc967e939fd949c912841148a/index.m3u8
+#EXTINF:-1 group-title="香港,18台
+https://z88.ubtvfans.com/live/rx1/44/85341c5f70a65a7ffbe09dae086f1201/index.m3u8
+
+
+#################################################################################################################################
+#EXTINF:-1 group-title="台湾,TVBS
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾,东森新闻
+https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
+#EXTINF:-1 group-title="台湾,东森美洲
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾,东森电影
+https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+#EXTINF:-1 group-title="台湾,东森超视
+https://z88.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
+#EXTINF:-1 group-title="台湾,东森戏剧
+https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+#EXTINF:-1 group-title="台湾,东森洋片
+https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+#EXTINF:-1 group-title="台湾,龙华偶像
+https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
+#EXTINF:-1 group-title="台湾,龙华日韩
+https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
+#EXTINF:-1 group-title="台湾,龙华戏剧
+https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
+#EXTINF:-1 group-title="台湾,龙华经典
+https://z88.ubtvfans.com/live/rx1/100/a199b21da53bc0e33feffca890752109/index.m3u8
+#EXTINF:-1 group-title="台湾,龙华电影
+https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
+#EXTINF:-1 group-title="台湾,美亚电影
+https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+#EXTINF:-1 group-title="台湾,民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾,中天综合
+https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
+#EXTINF:-1 group-title="台湾,中天娱乐
+https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
+#EXTINF:-1 group-title="台湾,靖阳戏剧
+https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
+#EXTINF:-1 group-title="台湾,靖阳卡通
+https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+#EXTINF:-1 group-title="台湾,靖天日本
+https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+#EXTINF:-1 group-title="台湾,靖天国际
+https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
+#EXTINF:-1 group-title="台湾,靖天育乐
+https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
+#EXTINF:-1 group-title="台湾,靖天欢乐
+https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
+#EXTINF:-1 group-title="台湾,靖天映画
+https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
+#EXTINF:-1 group-title="台湾,靖天电影
+https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+#EXTINF:-1 group-title="台湾,影迷数位电影
+https://z88.ubtvfans.com/live/rx1/2800/ef6238cba73f29e9ef691633c1eaf4d2/index.m3u8
+#EXTINF:-1 group-title="台湾,ELTA娱乐
+https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
+#EXTINF:-1 group-title="台湾,天映频道
+https://z88.ubtvfans.com/live/rx4/2969/c83fdd2db5687a99d2ea824b84a6bc3c/index.m3u8
+#EXTINF:-1 group-title="台湾,天映经典
+https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
+#EXTINF:-1 group-title="台湾,民视第一台
+https://z88.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
+#EXTINF:-1 group-title="台湾,AMC电影台
+https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
+
+#################################################################################################################################
+#EXTINF:-1 group-title="新马,新加坡CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新马,TV8
+https://z88.ubtvfans.com/live/rx3/1455/cd09b5c601e58ee0aed650c4ad64bc3e/index.m3u8
+#EXTINF:-1 group-title="新马,Astro AEC
+https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
+#EXTINF:-1 group-title="新马,Astro QJ
+https://z88.ubtvfans.com/live/rx3/427/0f7330dfa5e5c9489e056561b2a4122c/index.m3u8
+
+#################################################################################################################################
+#EXTINF:-1 group-title="体育,NBA
+https://z88.ubtvfans.com/live/rx4/3044/4ca8c9f13644f09ce3d4e93a4941d75c/index.m3u8
+#EXTINF:-1 group-title="体育,NBA台湾
+https://z88.ubtvfans.com/live/rx1/71/e9bcba1bedb0d3bbf4b81a17360a59ab/index.m3u8
+#EXTINF:-1 group-title="体育,NBA USA
+https://z88.ubtvfans.com/live/rx3/1185/867e66c99dec577fd0ec2fc9bd610748/index.m3u8
+#EXTINF:-1 group-title="体育,Astro SP4
+https://z88.ubtvfans.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
+#EXTINF:-1 group-title="体育,Astro SP5
+https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8
+#EXTINF:-1 group-title="体育,Astro SP2
+https://z88.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
+#EXTINF:-1 group-title="体育,ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 group-title="体育,ESPN2
+https://z88.ubtvfans.com/live/rx3/1183/d6ad5847e90fce45266b7f211b35ff37/index.m3u8
+#EXTINF:-1 group-title="体育,ESPN U
+https://z88.ubtvfans.com/live/rx3/1196/f9ddd771abfb1dcb846c024130816b45/index.m3u8
+#EXTINF:-1 group-title="体育,TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 group-title="体育,TNT(backup)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="体育,TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="体育,劲爆体育
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
+#EXTINF:-1 group-title="体育,TSN-1
+https://z88.ubtvfans.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
+#EXTINF:-1 group-title="体育,TSN-2
+https://z88.ubtvfans.com/live/rx3/1274/86de5062a3db4568ac97842cf4897b75/index.m3u8
+#EXTINF:-1 group-title="体育,TSN-3
+https://z88.ubtvfans.com/live/rx3/1275/47f2960010cd38e38a1f224152c5733c/index.m3u8
+#EXTINF:-1 group-title="体育,TSN-4
+https://z88.ubtvfans.com/live/rx4/1276/a7c1ab2dfcaaf81dcca82d246dcc8835/index.m3u8
+#EXTINF:-1 group-title="体育,TSN-5
+https://z88.ubtvfans.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
+#EXTINF:-1 group-title="体育,SportsNet
+https://z88.ubtvfans.com/live/rx4/3074/573515e4a549e51d092e7a9b76105c33/index.m3u8
+https://z88.ubtvfans.com/live/rx4/1281/97cfb3f94b1210d05886f366fce921c2/index.m3u8
+#EXTINF:-1 group-title="体育,Sky Sports Arena
+https://z88.ubtvfans.com/live/rx3/2781/8ec2edfbc6692b293b9daa41093e160e/index.m3u8
+#EXTINF:-1 group-title="体育,Bein Sports 1
+https://z88.ubtvfans.com/live/rx2/2413/05b5ee96319dcbba0493e41fcc63d546/index.m3u8
+#EXTINF:-1 group-title="体育,Bein Sports 2
+https://z88.ubtvfans.com/live/rx4/2390/179bff9e7775b2548bb1b75fade1f929/index.m3u8
+#EXTINF:-1 group-title="体育,Bein Sports 7
+https://z88.ubtvfans.com/live/rx2/2412/d622225057e6c950d0b33dddbfdf7180/index.m3u8
+#EXTINF:-1 group-title="体育,Bein Sports USA
+https://z88.ubtvfans.com/live/rx3/1195/ab3dcefe39410b8196ea05703c3e58be/index.m3u8
+#EXTINF:-1 group-title="体育,Sky Sports Action
+https://z88.ubtvfans.com/live/rx3/2785/be5ca7bb3313efaf79329d995231ee0e/index.m3u8
+#EXTINF:-1 group-title="体育,TRACE Sports
+https://z88.ubtvfans.com/live/rx1/1037/560865204284fe14b7a60084e342b5eb/index.m3u8
+#EXTINF:-1 group-title="体育,SkySports MIX
+https://z88.ubtvfans.com/live/rx3/2780/b9140d9b6dc486fe87eae0ca11a1add9/index.m3u8
+#EXTINF:-1 group-title="体育,ELTA体育1
+https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
+#EXTINF:-1 group-title="体育,ELTA体育2
+https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
+#EXTINF:-1 group-title="体育,ELTA体育3
+https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+#EXTINF:-1 group-title="体育,ELTA体育4
+https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
+#EXTINF:-1 group-title="体育,DAZN1
+https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+#EXTINF:-1 group-title="体育,DAZN2
+https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
+#EXTINF:-1 group-title="体育,博斯无限2
+https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
+#EXTINF:-1 group-title="体育,博斯运动1
+https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+#EXTINF:-1 group-title="体育,博斯运动2
+https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+#EXTINF:-1 group-title="体育,博斯高球1
+https://z88.ubtvfans.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
+#EXTINF:-1 group-title="体育,博斯高球2
+https://z88.ubtvfans.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
+#EXTINF:-1 group-title="体育,Sky sports Golf
+https://z88.ubtvfans.com/live/rx3/2784/e32b44aae452b510488bcacb3d11f7ac/index.m3u8
+#EXTINF:-1 group-title="体育,Sky sports F1
+https://z88.ubtvfans.com/live/rx3/182/b8a7a83222a29d6f9b17aebea66aac0e/index.m3u8
+#EXTINF:-1 group-title="体育,Sky sports NBA
+https://z88.ubtvfans.com/live/rx4/2738/6b76bf51f583760b06a34d6ee263f659/index.m3u8
+#EXTINF:-1 group-title="体育,Sky sports Football
+https://z88.ubtvfans.com/live/rx3/2782/44176d105a4efd51f12bd721ddaa8d65/index.m3u8
+#EXTINF:-1 group-title="体育,Euro sports 
+https://z88.ubtvfans.com/live/rx1/1342/d8fbb3572f00e9fc78e17ae331a15070/index.m3u8
+#EXTINF:-1 group-title="体育,FOX sports 2
+https://z88.ubtvfans.com/live/rx1/1132/ffe1a7ac53bf2881c31d1e646d2e0ca4/index.m3u8
+#EXTINF:-1 group-title="体育,FANDUEL TV
+https://z88.ubtvfans.com/live/rx3/1543/ac68bb750837cb84c24433b66b0bb5db/index.m3u8
+#EXTINF:-1 group-title="体育,M Encore
+https://z88.ubtvfans.com/live/rx3/1509/56b3a722617bc11e384eb7d8bf89bd0d/index.m3u8
+
+#################################################################################################################################
+#EXTINF:-1 group-title="海外,新时代台
+https://z88.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
+#EXTINF:-1 group-title="海外,HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="海外,HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 group-title="海外,HBO2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 group-title="海外,HBO+
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="海外,HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 group-title="海外,HBO Extreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 group-title="海外,HBO Hits
+https://z88.ubtvfans.com/live/rx4/2991/273a7fe8625fa0c90e023c22b85b0121/index.m3u8
+#EXTINF:-1 group-title="海外,AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 group-title="海外,Rakuten TV
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外,FOX MOVIE
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="海外,Moviesphere
+https://dxazj2uf8uiwf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/43b2be12-b827-4bb3-816a-b9afa0238be0/0.m3u8
+#EXTINF:-1 group-title="海外,NBC
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 group-title="海外,Cinemax
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="海外,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="海外,Hollywood
+https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
+#EXTINF:-1 group-title="海外,Rock Action
+http://210.210.155.37/session/bd39b29e-a763-11ec-83ca-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="海外,Rock Entertainment
+https://z88.ubtvfans.com/live/rx4/2979/69988f246ff43cefd723677201945a2f/index.m3u8
+#EXTINF:-1 group-title="海外,Bloomberg
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外,AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 group-title="海外,BBC2
+https://z88.ubtvfans.com/live/rx3/1385/683373c0227fd2a7d132b5c477ea3c74/index.m3u8
+#EXTINF:-1 group-title="海外,BBC4
+https://z88.ubtvfans.com/live/rx3/1383/ba749a5d061144fa51250d116cd10759/index.m3u8
+#EXTINF:-1 group-title="海外,CBS
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 group-title="海外,BBC EARTH
+https://z88.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
+#EXTINF:-1 group-title="海外,BBC Lifestyle
+https://z88.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
+#EXTINF:-1 group-title="海外,BBC Red Button
+https://z88.ubtvfans.com/live/rx3/1393/9b698fe9349a384947d141351a0c598c/index.m3u8
+#EXTINF:-1 group-title="海外,BBC Drama
+https://bbceu-bbcdrama-2-it.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="海外,BBC NEWS
+https://z88.ubtvfans.com/live/rx4/2962/7b62bc74cc61d6fa8e3e22e267d2c256/index.m3u8
+#EXTINF:-1 group-title="海外,BBC FOOD
+https://d386m2lmbakvx4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/3e5d85c5-b3ab-434d-bd67-4ea74a308911/2.m3u8
+#EXTINF:-1 group-title="海外,BBC HOME
+https://d1wxiaxdr51kqy.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/31cae522-b615-4981-9b83-66c553595c8b/2.m3u8
+#EXTINF:-1 group-title="海外,CNBC-1
+https://z88.ubtvfans.com/live/rx3/1414/02e8be704b6fea1a0b884dc17d982500/index.m3u8
+#EXTINF:-1 group-title="海外,CNBC-2
+https://z88.ubtvfans.com/live/rx3/1555/f5bc3f7b2b2c9a848d20a5b9bceddcd0/index.m3u8
+#EXTINF:-1 group-title="海外,Disney
+https://z88.ubtvfans.com/live/rx4/5/4fa8f09e74698e88155754278762a2b7/index.m3u8
+#EXTINF:-1 group-title="海外,Disney XD
+https://z88.ubtvfans.com/live/rx4/31/fab483586fbf9de83a7254e721c8a692/index.m3u8
+#EXTINF:-1 group-title="海外,Disney Junior
+https://z88.ubtvfans.com/live/rx3/47/39c7dd2d7920509a90d0d9dd90dba500/index.m3u8
+#EXTINF:-1 group-title="海外,Discovery
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="海外,Discovery Canada
+https://z88.ubtvfans.com/live/rx4/1261/f90c78efbdf871dce899cb1567145fc7/index.m3u8
+#EXTINF:-1 group-title="海外,TLC
+https://z88.ubtvfans.com/live/rx3/1529/881b8da03aeb0aace98b994aaddffb02/index.m3u8
+#EXTINF:-1 group-title="海外,History
+https://z88.ubtvfans.com/live/rx3/1204/8dbeb2b77caf7f96a141072f7507e5d2/index.m3u8
+#EXTINF:-1 group-title="海外,National Geographic
+https://z88.ubtvfans.com/live/rx3/1200/79d38cfcfc64b16fe5e19385b94694ee/index.m3u8
+#EXTINF:-1 group-title="海外,National Geographic Wild
+https://z88.ubtvfans.com/live/rx3/2313/dc4d880705e4db5b333c728c560bdd11/index.m3u8
+#EXTINF:-1 group-title="海外,Global News Ottawa
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 group-title="海外,CTV
+https://z88.ubtvfans.com/live/rx3/1253/0250d97a890ffad686a524f3be9cede4/index.m3u8
+#EXTINF:-1 group-title="海外,CTV2
+https://z88.ubtvfans.com/live/rx3/1257/7cd75b2af7e124f3f10b72776491f6a4/index.m3u8
+#EXTINF:-1 group-title="海外,CTV NEWS
+https://z88.ubtvfans.com/live/rx4/1249/53e336806040332d201775d186a96f90/index.m3u8
+#EXTINF:-1 group-title="海外,CTV comedy
+https://z88.ubtvfans.com/live/rx3/1267/347206b61c65768e3ed6755015ab5a1e/index.m3u8
+#EXTINF:-1 group-title="海外,CTV Sci-Fi
+https://z88.ubtvfans.com/live/rx4/1268/98fc64581bcb6041658ba1954f858c66/index.m3u8
+#EXTINF:-1 group-title="海外,Animal Planet
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 group-title="海外,美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="海外,DMAX
+https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
+#EXTINF:-1 group-title="海外,Food Network
+https://z88.ubtvfans.com/live/rx3/1421/3fd81712bc2e8557bf439b21561ea4e9/index.m3u8
+#EXTINF:-1 group-title="海外,FOX 32
+https://z88.ubtvfans.com/live/rx3/2431/90b1b3bba75518bb4de8be6b4c90f626/index.m3u8
+#EXTINF:-1 group-title="海外,Warner TV
+https://z88.ubtvfans.com/live/rx4/2988/8681ae610de481d359f9d5f012be8dc8/index.m3u8
+#EXTINF:-1 group-title="海外,Starz Kids Family
+https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
+#EXTINF:-1 group-title="海外,Starz Black
+https://z88.ubtvfans.com/live/rx3/1181/0d51b6eefd15d1ba3e1479e438f26969/index.m3u8
+#EXTINF:-1 group-title="海外,Starz Comedy
+https://z88.ubtvfans.com/live/rx3/1118/447a71029feb5c50e4638cff92627143/index.m3u8
+#EXTINF:-1 group-title="海外,Starz Encore
+https://z88.ubtvfans.com/live/rx3/1121/0a8fa6bdfc3ebf3e119b72049ec47d70/index.m3u8
+#EXTINF:-1 group-title="海外,Galaxy Premium
+https://z88.ubtvfans.com/live/rx4/2998/8d80b9a7bde76670a26dff6125ecd916/index.m3u8
+#EXTINF:-1 group-title="海外,cooking channel
+https://z88.ubtvfans.com/live/rx3/1238/0d11c9b1fb295e52df6ae63bf2b2ce15/index.m3u8
+#EXTINF:-1 group-title="海外,Reel Life
+https://z88.ubtvfans.com/live/rx3/1531/cdb6c8412e671fb5e5afdc0e319b2d6f/index.m3u8
+#EXTINF:-1 group-title="海外,Discovery Turbo
+https://z88.ubtvfans.com/live/rx3/1387/ab030cea9e1a9a16087b5a2c3b15b508/index.m3u8
+#EXTINF:-1 group-title="海外,Discovery Science
+https://z88.ubtvfans.com/live/rx3/1424/ed4fc5ede5f9d7693a832a0392b92212/index.m3u8
+#EXTINF:-1 group-title="海外,Cartoon Network
+https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
+#EXTINF:-1 group-title="海外,Hallmark Mystery
+https://z88.ubtvfans.com/live/rx3/1179/b34f1011fc3e13a7a3a35cd7f8b55574/index.m3u8
+#EXTINF:-1 group-title="海外,Hits Movie
+https://z88.ubtvfans.com/live/rx4/2974/a4a6086a42e9974055745058c9993650/index.m3u8
+#EXTINF:-1 group-title="海外,Crime Investigation
+https://z88.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822facf8cd5/index.m3u8
+#EXTINF:-1 group-title="海外,Universial Kid
+https://z88.ubtvfans.com/live/rx3/1215/434967b138bcea29085ae897edf9beb5/index.m3u8
+#EXTINF:-1 group-title="海外,comedy central
+http://38.96.178.201/live/ComedyCentral/index.m3u8
+#EXTINF:-1 group-title="海外,law and crime
+https://z88.ubtvfans.com/live/rx3/1540/c0a0e45e8426dadb0d57236cf7fb4387/index.m3u8
+#EXTINF:-1 group-title="海外,CP24
+https://z88.ubtvfans.com/live/rx3/1247/1ee88c8bc1c3e39842c2a3ceaa160ded/index.m3u8
+#EXTINF:-1 group-title="海外,DreamWorks
+https://z88.ubtvfans.com/live/rx4/3036/7304a4826c1772dac3aa362ef6819224/index.m3u8
+#EXTINF:-1 group-title="海外,Showcase
+https://z88.ubtvfans.com/live/rx3/1116/64bc20318cdc5917cc0f1ff7a332644d/index.m3u8
+#EXTINF:-1 group-title="海外,TLC
+https://z88.ubtvfans.com/live/rx4/1262/925e258ef2859084e3c47c8a6e1cd111/index.m3u8
+#EXTINF:-1 group-title="海外,Entertainment
+https://z88.ubtvfans.com/live/rx3/1536/543ce5d0cac372943572c1f783e7d480/index.m3u8
+#EXTINF:-1 group-title="海外,CW
+https://z88.ubtvfans.com/live/rx3/1220/a3711d8cc61bc7b91558346c2fe4c521/index.m3u8
+#EXTINF:-1 group-title="海外,E4
+https://z88.ubtvfans.com/live/rx3/1397/1e32127042dc75e1f54fb1a772bbc64f/index.m3u8
+#EXTINF:-1 group-title="海外,FX
+https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
+#EXTINF:-1 group-title="海外,AFN
+https://z88.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
+#EXTINF:-1 group-title="海外,YTV
+https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
+#EXTINF:-1 group-title="海外,CBC
+https://z88.ubtvfans.com/live/rx4/1252/3ddd565e46374991d0dd3581e090e175/index.m3u8
+#EXTINF:-1 group-title="海外,VH1
+https://z88.ubtvfans.com/live/rx3/1532/29e1b856f07b95e18bc79cce37548f64/index.m3u8
+#EXTINF:-1 group-title="海外,FYI
+https://z88.ubtvfans.com/live/rx3/1240/36932c5e9077764d39abd138e58a08e5/index.m3u8
+#EXTINF:-1 group-title="海外,Game Show Network
+https://z88.ubtvfans.com/live/rx3/1236/9d81ca913b5ee34b1ec16eb8fafd4bb1/index.m3u8
+#EXTINF:-1 group-title="海外,FOX
+https://z88.ubtvfans.com/live/rx3/1218/474f36b8c7bfc435538b3fd5a80611c2/index.m3u8
+#EXTINF:-1 group-title="海外,TCM
+https://z88.ubtvfans.com/live/rx3/1180/99d4371654cef668910352444ab6aeb6/index.m3u8
+#EXTINF:-1 group-title="海外,CHCH
+https://z88.ubtvfans.com/live/rx3/1256/d8c895996a56cb852f50ae4cd4fe8f98/index.m3u8
+#EXTINF:-1 group-title="海外,City TV
+https://z88.ubtvfans.com/live/rx4/1255/e6577422a910e4afb2c1abfa6a9665e0/index.m3u8
+#EXTINF:-1 group-title="海外,SYFY
+https://z88.ubtvfans.com/live/rx3/1537/091885eb490ed1db9379931e26297e6b/index.m3u8
+#EXTINF:-1 group-title="海外,WOAI
+https://z88.ubtvfans.com/live/rx3/2430/93178e8f0a20fe3f39b34a4e36868fc3/index.m3u8
+#EXTINF:-1 group-title="海外,FUSE
+https://z88.ubtvfans.com/live/rx3/1376/b8e02acb82cdde6cd833e90c01b7edfb/index.m3u8
+#EXTINF:-1 group-title="海外,ITV4
+https://z88.ubtvfans.com/live/rx3/1404/5a41397eb3bd38c781cefe8114f129f3/index.m3u8
+#EXTINF:-1 group-title="海外,ITV3
+https://z88.ubtvfans.com/live/rx3/1403/fabc2ba273d362386938751ca29108cb/index.m3u8
+#EXTINF:-1 group-title="海外,ITV2
+https://z88.ubtvfans.com/live/rx3/1402/e7cf50edefdf8c739538773eec6f639e/index.m3u8
+#EXTINF:-1 group-title="海外,5STAR
+https://z88.ubtvfans.com/live/rx3/1400/adb1316a2329578ea5bc65327bb98926/index.m3u8
+#EXTINF:-1 group-title="海外,Charge!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="海外,BRAVO
+https://183-81-168-160.servers.party:5052/live13/wJ5sJy7rPnOl7yrEojZFZg/1015522/1717107329/3021049.m3u8
+#EXTINF:-1 group-title="海外,Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="海外,HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="海外,TCM EAST
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
