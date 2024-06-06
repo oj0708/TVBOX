@@ -5,15 +5,15 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视,CCTV-2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视,CCTV-3 综艺
-https://z88.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
 #EXTINF:-1 group-title="央视,CCTV-4 中文国际
 https://z88.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
 #EXTINF:-1 group-title="央视,CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视,CCTV-5 体育
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
 #EXTINF:-1 group-title="央视,CCTV-6 电影
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41141/index.m3u8
 #EXTINF:-1 group-title="央视,CCTV-7 国防军事
 https://z88.ubtvfans.com/live/rx1/2757/a75508a147ffe80a289d9674f341441d/index.m3u8
 #EXTINF:-1 group-title="央视,CCTV-8 电视剧
@@ -69,13 +69,13 @@ https://z88.ubtvfans.com/live/rx1/464/b220950d6a761830e9bb11712b0c136e/index.m3u
 #EXTINF:-1 group-title="卫视,湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
 #EXTINF:-1 group-title="卫视,浙江卫视
-http://64.140.167.170:8080/live/ydws7/hls.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视,东方卫视
-http://64.140.167.170:8080/live/ydws2/hls.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
 #EXTINF:-1 group-title="卫视,江苏卫视
-http://64.140.167.170:8080/live/ydws1/hls.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
 #EXTINF:-1 group-title="卫视,北京卫视
-http://64.140.167.170:8080/live/bjws/hls.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:-1 group-title="卫视,深圳卫视
 http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 #EXTINF:-1 group-title="卫视,CCTV-广东卫视
@@ -157,9 +157,9 @@ https://z88.ubtvfans.com/live/rx3/1244/7833a84444269dd5dd0a7531ccef9d9c/index.m3
 #EXTINF:-1 group-title="香港,凤凰卫视
 http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 #EXTINF:-1 group-title="香港,凤凰中文
-http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 #EXTINF:-1 group-title="香港,凤凰资讯
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 group-title="香港,VIU
 https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
 #EXTINF:-1 group-title="香港,天映频道
@@ -346,6 +346,8 @@ https://z88.ubtvfans.com/live/rx3/1543/ac68bb750837cb84c24433b66b0bb5db/index.m3
 https://z88.ubtvfans.com/live/rx3/1509/56b3a722617bc11e384eb7d8bf89bd0d/index.m3u8
 
 #################################################################################################################################
+#EXTINF:-1 group-title="海外,ABC NEWS
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 group-title="海外,新时代台
 https://z88.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
 #EXTINF:-1 group-title="海外,HBO Family
@@ -434,12 +436,12 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://z88.ubtvfans.com/live/rx3/1253/0250d97a890ffad686a524f3be9cede4/index.m3u8
 #EXTINF:-1 group-title="海外,CTV2
 https://z88.ubtvfans.com/live/rx3/1257/7cd75b2af7e124f3f10b72776491f6a4/index.m3u8
-#EXTINF:-1 group-title="海外,CTV NEWS
-https://z88.ubtvfans.com/live/rx4/1249/53e336806040332d201775d186a96f90/index.m3u8
 #EXTINF:-1 group-title="海外,CTV comedy
 https://z88.ubtvfans.com/live/rx3/1267/347206b61c65768e3ed6755015ab5a1e/index.m3u8
 #EXTINF:-1 group-title="海外,CTV Sci-Fi
 https://z88.ubtvfans.com/live/rx4/1268/98fc64581bcb6041658ba1954f858c66/index.m3u8
+#EXTINF:-1 group-title="海外,CBS PHILADELPHIA
+https://dai.google.com/linear/hls/pa/event/Xu-ITJ2GTNGaxGn893mmWg/stream/bfd7a895-abaf-474f-af22-8b1a0f910695:TUL/master.m3u8
 #EXTINF:-1 group-title="海外,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 group-title="海外,美国中文电视
@@ -449,98 +451,44 @@ https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u
 #EXTINF:-1 group-title="海外,Food Network
 https://z88.ubtvfans.com/live/rx3/1421/3fd81712bc2e8557bf439b21561ea4e9/index.m3u8
 #EXTINF:-1 group-title="海外,FOX 32
-https://z88.ubtvfans.com/live/rx3/2431/90b1b3bba75518bb4de8be6b4c90f626/index.m3u8
-#EXTINF:-1 group-title="海外,Warner TV
-https://z88.ubtvfans.com/live/rx4/2988/8681ae610de481d359f9d5f012be8dc8/index.m3u8
-#EXTINF:-1 group-title="海外,Starz Kids Family
-https://z88.ubtvfans.com/live/rx3/1120/03a6f7b8a8a5cefe610e804115f62c0d/index.m3u8
-#EXTINF:-1 group-title="海外,Starz Black
-https://z88.ubtvfans.com/live/rx3/1181/0d51b6eefd15d1ba3e1479e438f26969/index.m3u8
-#EXTINF:-1 group-title="海外,Starz Comedy
-https://z88.ubtvfans.com/live/rx3/1118/447a71029feb5c50e4638cff92627143/index.m3u8
-#EXTINF:-1 group-title="海外,Starz Encore
-https://z88.ubtvfans.com/live/rx3/1121/0a8fa6bdfc3ebf3e119b72049ec47d70/index.m3u8
-#EXTINF:-1 group-title="海外,Galaxy Premium
-https://z88.ubtvfans.com/live/rx4/2998/8d80b9a7bde76670a26dff6125ecd916/index.m3u8
-#EXTINF:-1 group-title="海外,cooking channel
-https://z88.ubtvfans.com/live/rx3/1238/0d11c9b1fb295e52df6ae63bf2b2ce15/index.m3u8
-#EXTINF:-1 group-title="海外,Reel Life
-https://z88.ubtvfans.com/live/rx3/1531/cdb6c8412e671fb5e5afdc0e319b2d6f/index.m3u8
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="海外,Discovery Turbo
 https://z88.ubtvfans.com/live/rx3/1387/ab030cea9e1a9a16087b5a2c3b15b508/index.m3u8
-#EXTINF:-1 group-title="海外,Discovery Science
-https://z88.ubtvfans.com/live/rx3/1424/ed4fc5ede5f9d7693a832a0392b92212/index.m3u8
 #EXTINF:-1 group-title="海外,Cartoon Network
-https://z88.ubtvfans.com/live/rx3/1211/28866767ab5bb79ac1105c3918b957d2/index.m3u8
-#EXTINF:-1 group-title="海外,Hallmark Mystery
-https://z88.ubtvfans.com/live/rx3/1179/b34f1011fc3e13a7a3a35cd7f8b55574/index.m3u8
-#EXTINF:-1 group-title="海外,Hits Movie
-https://z88.ubtvfans.com/live/rx4/2974/a4a6086a42e9974055745058c9993650/index.m3u8
-#EXTINF:-1 group-title="海外,Crime Investigation
-https://z88.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822facf8cd5/index.m3u8
-#EXTINF:-1 group-title="海外,Universial Kid
-https://z88.ubtvfans.com/live/rx3/1215/434967b138bcea29085ae897edf9beb5/index.m3u8
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="海外,comedy central
-http://38.96.178.201/live/ComedyCentral/index.m3u8
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 group-title="海外,law and crime
-https://z88.ubtvfans.com/live/rx3/1540/c0a0e45e8426dadb0d57236cf7fb4387/index.m3u8
+https://dai.google.com/linear/hls/pa/event/3w3PsYzZQzS8lyRfi7e4mQ/stream/d3110407-beee-4c3d-a439-5bfa0509e24a:TUL/master.m3u8
 #EXTINF:-1 group-title="海外,CP24
 https://z88.ubtvfans.com/live/rx3/1247/1ee88c8bc1c3e39842c2a3ceaa160ded/index.m3u8
 #EXTINF:-1 group-title="海外,DreamWorks
-https://z88.ubtvfans.com/live/rx4/3036/7304a4826c1772dac3aa362ef6819224/index.m3u8
+https://z88.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
 #EXTINF:-1 group-title="海外,Showcase
 https://z88.ubtvfans.com/live/rx3/1116/64bc20318cdc5917cc0f1ff7a332644d/index.m3u8
 #EXTINF:-1 group-title="海外,TLC
 https://z88.ubtvfans.com/live/rx4/1262/925e258ef2859084e3c47c8a6e1cd111/index.m3u8
-#EXTINF:-1 group-title="海外,Entertainment
-https://z88.ubtvfans.com/live/rx3/1536/543ce5d0cac372943572c1f783e7d480/index.m3u8
-#EXTINF:-1 group-title="海外,CW
-https://z88.ubtvfans.com/live/rx3/1220/a3711d8cc61bc7b91558346c2fe4c521/index.m3u8
 #EXTINF:-1 group-title="海外,E4
 https://z88.ubtvfans.com/live/rx3/1397/1e32127042dc75e1f54fb1a772bbc64f/index.m3u8
-#EXTINF:-1 group-title="海外,FX
-https://z88.ubtvfans.com/live/rx3/1373/5fcfc63b37d8547b5c70b11b8f07ccf9/index.m3u8
 #EXTINF:-1 group-title="海外,AFN
 https://z88.ubtvfans.com/live/rx3/195/16eaeeae098e49d4182e9e5b5dead592/index.m3u8
 #EXTINF:-1 group-title="海外,YTV
 https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
 #EXTINF:-1 group-title="海外,CBC
-https://z88.ubtvfans.com/live/rx4/1252/3ddd565e46374991d0dd3581e090e175/index.m3u8
-#EXTINF:-1 group-title="海外,VH1
-https://z88.ubtvfans.com/live/rx3/1532/29e1b856f07b95e18bc79cce37548f64/index.m3u8
-#EXTINF:-1 group-title="海外,FYI
-https://z88.ubtvfans.com/live/rx3/1240/36932c5e9077764d39abd138e58a08e5/index.m3u8
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="海外,Game Show Network
-https://z88.ubtvfans.com/live/rx3/1236/9d81ca913b5ee34b1ec16eb8fafd4bb1/index.m3u8
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 group-title="海外,FOX
-https://z88.ubtvfans.com/live/rx3/1218/474f36b8c7bfc435538b3fd5a80611c2/index.m3u8
-#EXTINF:-1 group-title="海外,TCM
-https://z88.ubtvfans.com/live/rx3/1180/99d4371654cef668910352444ab6aeb6/index.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="海外,CHCH
 https://z88.ubtvfans.com/live/rx3/1256/d8c895996a56cb852f50ae4cd4fe8f98/index.m3u8
 #EXTINF:-1 group-title="海外,City TV
 https://z88.ubtvfans.com/live/rx4/1255/e6577422a910e4afb2c1abfa6a9665e0/index.m3u8
-#EXTINF:-1 group-title="海外,SYFY
-https://z88.ubtvfans.com/live/rx3/1537/091885eb490ed1db9379931e26297e6b/index.m3u8
-#EXTINF:-1 group-title="海外,WOAI
-https://z88.ubtvfans.com/live/rx3/2430/93178e8f0a20fe3f39b34a4e36868fc3/index.m3u8
-#EXTINF:-1 group-title="海外,FUSE
-https://z88.ubtvfans.com/live/rx3/1376/b8e02acb82cdde6cd833e90c01b7edfb/index.m3u8
-#EXTINF:-1 group-title="海外,ITV4
-https://z88.ubtvfans.com/live/rx3/1404/5a41397eb3bd38c781cefe8114f129f3/index.m3u8
-#EXTINF:-1 group-title="海外,ITV3
-https://z88.ubtvfans.com/live/rx3/1403/fabc2ba273d362386938751ca29108cb/index.m3u8
-#EXTINF:-1 group-title="海外,ITV2
-https://z88.ubtvfans.com/live/rx3/1402/e7cf50edefdf8c739538773eec6f639e/index.m3u8
-#EXTINF:-1 group-title="海外,5STAR
-https://z88.ubtvfans.com/live/rx3/1400/adb1316a2329578ea5bc65327bb98926/index.m3u8
-#EXTINF:-1 group-title="海外,Charge!
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 group-title="海外,BRAVO
-https://183-81-168-160.servers.party:5052/live13/wJ5sJy7rPnOl7yrEojZFZg/1015522/1717107329/3021049.m3u8
 #EXTINF:-1 group-title="海外,Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="海外,HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="海外,TCM EAST
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 group-title="海外,FOX BUSINESS
+http://41.205.93.154/FOXBUSINESS/index.m3u8
